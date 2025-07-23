@@ -56,7 +56,9 @@ Else:
 
 Display "This is an Odd number"
 
-End Program 2:
+End 
+
+Program 2:
 
 Objective: To determine whether the character entered by the user is a vowel or a consonant.
 
@@ -80,7 +82,9 @@ Else:
 
 Display "The Character entered is a Consonant"
 
-End Program 3
+End 
+
+Program 3
 
 Objective:
 
